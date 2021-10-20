@@ -3,8 +3,6 @@
 # Telegram IP Logger
 When someone clicks the link, you will receive their IP and other information via telegram. PHP is still a shit language.
 
-![](https://cdn.discordapp.com/attachments/631162287968747550/795106360034459689/unknown.png)
-
 # Information
 - Seen many ip grabbers that output to discord so I went and made one on telegram. 
 - If you need any support, pm my <a href="https://t.me/afqro">telegram</a>.
