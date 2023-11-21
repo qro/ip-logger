@@ -17,7 +17,7 @@
 
 ## ℹ️ Information
 - A [wiki](https://github.com/qro/ip-logger/wiki) will be made later on to guide you on using this php script. Watch this repository and click all activity to get notified on all changes.
-- If you need any support, pm my [telegram](https://t.me/afqro).
+- If you need any support, send me an email at qro.gh@pm.me or send me a pm my [telegram](https://t.me/ro32pTQHAs).
 
 ---
 ###### This project here has been made for educational purposes only. I do not control the misconduct of my tool. I do not promote the usage of my tool.
